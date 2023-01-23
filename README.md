@@ -1,4 +1,4 @@
-# red-team-toolkit2
+# red-team-toolkit
 
 **Welcome to the red-team-toolkit!**
 
